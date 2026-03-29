@@ -106,13 +106,21 @@ The goal is to Build a **Scalable REST API with Authentication & Role-Based Acce
 ## ✅ Features Covered
 
   ✔ Authentication (JWT)
+  
   ✔ Role-based access (admin/user)
+  
   ✔ Full CRUD APIs
+  
   ✔ Protected routes
+  
   ✔ Validation (Joi)
+  
   ✔ API versioning
+  
   ✔ Swagger basic setup
+  
   ✔ Frontend integration
+  
   ✔ Clean structure
 
 ---

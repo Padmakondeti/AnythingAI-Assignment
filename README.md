@@ -8,7 +8,7 @@ The goal is to Build a **Scalable REST API with Authentication & Role-Based Acce
 
 ### 🧠 Key Concepts Used
 
-  For fastest development + best impression:
+  For fastest development:
 
   - **Backend**: Node.js + Express
   - **Database**: MongoDB

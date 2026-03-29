@@ -8,7 +8,7 @@ The goal is to Build a **Scalable REST API with Authentication & Role-Based Acce
 
 ### 🧠 Key Concepts Used
 
-  For fastest development:
+    For fastest development :
 
   - **Backend**: Node.js + Express
   - **Database**: MongoDB
@@ -105,41 +105,41 @@ The goal is to Build a **Scalable REST API with Authentication & Role-Based Acce
 
 ## ✅ Features Covered
 
-  ✔ Authentication (JWT)
-  
-  ✔ Role-based access (admin/user)
-  
-  ✔ Full CRUD APIs
-  
-  ✔ Protected routes
-  
-  ✔ Validation (Joi)
-  
-  ✔ API versioning
-  
-  ✔ Swagger basic setup
-  
-  ✔ Frontend integration
-  
-  ✔ Clean structure
+    ✔ Authentication (JWT)
+    
+    ✔ Role-based access (admin/user)
+    
+    ✔ Full CRUD APIs
+    
+    ✔ Protected routes
+    
+    ✔ Validation (Joi)
+    
+    ✔ API versioning
+    
+    ✔ Swagger basic setup
+    
+    ✔ Frontend integration
+    
+    ✔ Clean structure
 
 ---
 
 ## 💡Bonus Ideas
 
-  - [Pagination (?page=1&limit=10)]
-  - [Redis caching]
-  - [Docker setup]
-  - [Rate limiting]
-  - [Better UI (forms, error messages)]
+    - [Pagination (?page=1&limit=10)]
+    - [Redis caching]
+    - [Docker setup]
+    - [Rate limiting]
+    - [Better UI (forms, error messages)]
 
 ---
 
 ### If you want, I can do next:
 
-- 🔥 Convert this into production-level code
-- 🚀 Help you deploy live (Render)
-- 📊 Add advanced features (pagination, search, caching)
+  - 🔥 Convert this into production-level code
+  - 🚀 Help you deploy live (Render)
+  - 📊 Add advanced features (pagination, search, caching)
 
 Please tell me 👍
 
